@@ -17,7 +17,7 @@ I am a student at **Universidad Mayor de San Simón** (UMSS) in Cochabamba, Boli
 ![Data Science](https://img.shields.io/badge/Data%20Science-📊-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Rei Sync](https://img.shields.io/badge/REI--00-SYNC%20OK-red?style=for-the-badge)
+
 
 ### GitHub Stats
 ![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabistAyan&show_icons=true&theme=tokyonight&hide_border=true)
